@@ -2,8 +2,11 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .nav-background{
-    background-color:#264653;
+    background-color:#ffffff;
     border-radius: 10px;
+}
+.nav-link{
+    font-weight: 600;
 }
 
 .container{
@@ -37,7 +40,7 @@ body{
     width: 288px;
     height: 243px;
 }
-#backpack h1{
+#news h1{
     font-weight: 600;
     margin-bottom: 50px;
 }
