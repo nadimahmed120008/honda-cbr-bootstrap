@@ -42,6 +42,9 @@ body{
     border: 1px solid #E76F51;
     margin-bottom: 115px;
 }
+.filter{
+    filter: grayscale(100%);
+}
 .categories h1{
     font-weight: 600;
 }
