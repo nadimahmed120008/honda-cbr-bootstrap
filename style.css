@@ -1,0 +1,83 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-background{
+    background-color:#264653;
+    border-radius: 10px;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+.blue-bg{
+    background-color:#264653;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.buy-now-button{
+    background-color: #E76F51;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+#underline{
+    width: 60px;
+    border: 1px solid #E76F51;
+    margin-bottom: 115px;
+}
+.categories h1{
+    font-weight: 600;
+}
+.categories img{
+    width: 288px;
+    height: 243px;
+}
+#backpack h1{
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+
+.card-body h5{
+    font-weight: 600;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+#subscribe{
+    height: 300px;
+}
+#subscribe h3{
+    color: white;
+    font-weight: 600;
+    
+}
+#subscribe h6{
+    color: gray;
+}
+.container h1{
+    font-weight: 600;
+    margin-bottom: 50px;
+    
+}
+.fa-star.filled{
+    color: #E76F51;
+}
+.fa-star.empty{
+    color: #E76F51;
+}
+footer{
+    text-align: center;
+}
