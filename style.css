@@ -1,23 +1,32 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.nav-background{
+/* .nav-background{
     background-color:#ffffff;
-    border-radius: 10px;
-}
+    
+} */
 .nav-link{
     font-weight: 600;
+}
+.nav-container{
+    padding: 0 100px;
+}
+.banner-container{
+    margin-bottom: 100px;
 }
 
 .container{
     margin-bottom: 100px;
 }
+#bike{
+    margin-bottom:20px;
+}
 .blue-bg{
     background-color:#264653;
-    border-radius: 10px;
+    
 }
 .carousel-item{
-    padding: 20px 40px;
+    padding: 50px 130px;
 }
 
 .buy-now-button{
@@ -37,7 +46,7 @@ body{
     font-weight: 600;
 }
 .categories img{
-    width: 288px;
+     width: 288px;
     height: 243px;
 }
 #news h1{
@@ -70,6 +79,12 @@ body{
 #subscribe h6{
     color: gray;
 }
+.Client img{
+    height: 150px;
+    width: 150px;
+    
+}
+
 .container h1{
     font-weight: 600;
     margin-bottom: 50px;
@@ -81,6 +96,14 @@ body{
 .fa-star.empty{
     color: #E76F51;
 }
+.text{
+    color: #E76F51;
+}
+
+/* footer section */
+
 footer{
     text-align: center;
+    height: 200px;
+    background-color: black;   
 }
